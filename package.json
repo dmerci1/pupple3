@@ -1,0 +1,26 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^26.0.0",
+    "firebase": "^4.12.1",
+    "lodash": "^4.17.5",
+    "native-base": "^2.4.2",
+    "react": "16.3.0-alpha.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz",
+    "react-native-clean-project": "^1.0.8",
+    "react-native-communications": "^2.2.1",
+    "react-native-is-iphonex": "^1.0.1",
+    "react-navigation": "v1.0.0-beta.26",
+    "react-navigation-redux-helpers": "^1.0.5",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "clean": "react-native-clean-project"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0"
+  }
+}
